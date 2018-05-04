@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mofan/Documents/workspace/WearAndPhone_2/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/Users/mofan/Documents/workspace/WearAndPhone_2/wear/build/intermediates/pre-dexed/debug/classes-d5f67bb4255f3148f6d38c38488dd7d713d00956.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/WearAndPhone_2/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/mofan/Documents/workspace/WearAndPhone_2/wear/build/intermediates/pre-dexed/debug/classes-9fc767b451e02ee8f91c3ca798f9943eb65b9867.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/WearAndPhone_2/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/mofan/Documents/workspace/WearAndPhone_2/wear/build/intermediates/pre-dexed/debug/classes-52f1c4cddae32cac67c7219a5381bf6208f886a1.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/WearAndPhone_2/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/mofan/Documents/workspace/WearAndPhone_2/wear/build/intermediates/pre-dexed/debug/classes-3cfbf03eb9038e7fabf671d12e8f426bf246a4f6.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/WearAndPhone_2/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/mofan/Documents/workspace/WearAndPhone_2/wear/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-442d8bae12cdacc36d9c5bdab4493ac2607769de.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/WearAndPhone_2/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/mofan/Documents/workspace/WearAndPhone_2/wear/build/intermediates/pre-dexed/debug/classes-faf42857153af489f1043e1a5a90af38a3f1ba57.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/WearAndPhone_2/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/mofan/Documents/workspace/WearAndPhone_2/wear/build/intermediates/pre-dexed/debug/classes-9606a0d95e83db65c4140af6a8289d0e3e4104e1.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/Documents/workspace/WearAndPhone_2/wear/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/mofan/Documents/workspace/WearAndPhone_2/wear/build/intermediates/pre-dexed/debug/classes-f46c7c1b69b033b66580f2b00118e229aecd1e13.jar" />
+    </item>
+    <item
+        jar="/Users/mofan/android-sdks/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/mofan/Documents/workspace/WearAndPhone_2/wear/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-029de6111b28266a52413a572aba3d39713f87d1.jar" />
+    </item>
+
+</items>
